@@ -1,2 +1,4 @@
 # 自定义代理规则 🚀 节点选择 
 # DOMAIN-SUFFIX, DOMAIN-KEYWORD,
+DOMAIN-SUFFIX,fonts.gstatic.com
+DOMAIN-SUFFIX,fonts.googleapis.com
