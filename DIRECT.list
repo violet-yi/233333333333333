@@ -1,5 +1,5 @@
 # 自定义直连规则 DIRECT
 # DOMAIN-SUFFIX, DOMAIN-KEYWORD,
 #DOMAIN-SUFFIX,bing.com
-DOMAIN-KEYWORD,yiyuan
+#DOMAIN-KEYWORD,yiyuan
 DOMAIN-SUFFIX,pixeldrain.com
