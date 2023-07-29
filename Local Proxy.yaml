@@ -6,3 +6,4 @@ payload:
   - DOMAIN-SUFFIX,sub.xeton.dev
   - DOMAIN-SUFFIX,fonts.gstatic.com
   - DOMAIN-SUFFIX,fonts.googleapis.com
+  - DOMAIN-SUFFIX,ghproxy.com
