@@ -4,3 +4,5 @@ payload:
   - DOMAIN-SUFFIX,suo.yt
   - DOMAIN-SUFFIX,api.v1.mk
   - DOMAIN-SUFFIX,sub.xeton.dev
+  - DOMAIN-SUFFIX,fonts.gstatic.com
+  - DOMAIN-SUFFIX,fonts.googleapis.com
