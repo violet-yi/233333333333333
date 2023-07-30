@@ -1,0 +1,9 @@
+# 自定义代理规则 🚀 节点选择 
+# DOMAIN-SUFFIX, DOMAIN-KEYWORD,
+DOMAIN-SUFFIX,fonts.gstatic.com
+DOMAIN-SUFFIX,fonts.googleapis.com
+DOMAIN-SUFFIX,gstatic.com
+#DOMAIN-KEYWORD,pikpak
+DOMAIN-SUFFIX,suo.yt
+DOMAIN-SUFFIX,api.v1.mk
+DOMAIN-SUFFIX,sub.xeton.dev
