@@ -190,7 +190,7 @@ proxy-providers:
   Sub1:
     <<: *http
     path: ./proxies/Sub1.yaml
-    url: https://dingyue.wenlianyun.vip/api/v1/client/subscribe?token=d997d029f869308482d0613b11cb0952&security=a3b7fbbce2345d777&flag=clash
+    url: https://sub.xeton.dev/sub?target=mixed&url=https%3A%2F%2Fdingyue.wenlianyun.vip%2Fapi%2Fv1%2Fclient%2Fsubscribe%3Ftoken%3Dd997d029f869308482d0613b11cb0952%26security%3Da3b7fbbce2345d777&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FMeilieage%2Fwebcdn%2Fmain%2Frule%2FArea_Media_NoAuto.ini&exclude=%E5%8F%B0%E6%B9%BE&include=流媒体&emoji=true&list=false&xudp=false&udp=true&tfo=false&expand=true&scv=false&fdn=false&flag=clash
 
   # 本地节点，路径可填写绝对路径或者相对路径(为clash工作目录下)
   # Sub3:
