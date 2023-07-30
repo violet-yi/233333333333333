@@ -84,7 +84,7 @@ proxy-groups:
     type: select
     use:
       - Sub1
-    filter: "(香港|日本|新加坡|台湾)0[134]"
+    filter: "日本"
 
   - name: 🎨 Telegram
     type: select
