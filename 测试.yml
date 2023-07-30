@@ -89,7 +89,7 @@ proxy-groups:
   - name: 🎨 Telegram
     type: select
     use:
-      - Sub2
+      - Sub1
     proxies:
       - 🚀 节点选择
     filter: "(香港|日本|新加坡|台湾)0[567]"
