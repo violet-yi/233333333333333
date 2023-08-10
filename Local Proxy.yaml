@@ -8,4 +8,4 @@ payload:
   - DOMAIN-SUFFIX,fonts.googleapis.com
   - DOMAIN-SUFFIX,ghproxy.com
   - DOMAIN-SUFFIX,services.googleapis.cn
-#  - DOMAIN-SUFFIX,xn--ngstr-cn-8za9o.com
+  - DOMAIN-SUFFIX,xn--ngstr-cn-8za9o.com
