@@ -7,7 +7,6 @@ payload:
   - DOMAIN-SUFFIX,fonts.gstatic.com
   - DOMAIN-SUFFIX,fonts.googleapis.com
   - DOMAIN-SUFFIX,ghproxy.com
-  - DOMAIN-SUFFIX,edgeservices.bing.com
 #  - DOMAIN-SUFFIX,services.googleapis.cn
 #  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 #  - DOMAIN-SUFFIX,xn--ngstr-cn-8za9o.com
