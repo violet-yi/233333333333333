@@ -7,7 +7,6 @@ payload:
   - DOMAIN-SUFFIX,sub.xeton.dev
   - DOMAIN-SUFFIX,fonts.gstatic.com
   - DOMAIN-SUFFIX,fonts.googleapis.com
-  - DOMAIN-SUFFIX,ghproxy.com
   - DOMAIN-SUFFIX,mirror.ghproxy.com
   - DOMAIN-SUFFIX,fastly.jsdelivr.net
 #  - DOMAIN-SUFFIX,services.googleapis.cn
