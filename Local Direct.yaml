@@ -1,6 +1,7 @@
 # 自定义直连规则 DIRECT
 # DOMAIN-SUFFIX, DOMAIN-KEYWORD,
 payload:
+  - DOMAIN-SUFFIX,cn.mm.bing.net
   - DOMAIN-SUFFIX,cn.bing.com
 #  - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,pixeldrain.com
