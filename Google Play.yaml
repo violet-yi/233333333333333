@@ -2,5 +2,6 @@
 # DOMAIN-SUFFIX, DOMAIN-KEYWORD,
 payload:
   - DOMAIN-SUFFIX,services.googleapis.cn
+  - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
   - DOMAIN-SUFFIX,xn--ngstr-cn-8za9o.com
